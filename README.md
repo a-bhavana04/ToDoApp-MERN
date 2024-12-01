@@ -87,3 +87,30 @@ The application follows the **MVC (Model-View-Controller)** pattern:
 4. **Deleting Tasks**: Delete completed tasks or all tasks and verify in MongoDB.
 
 ---
+### Adding Tasks
+![add](demo/add.jpg)
+![add](demo/add1.jpg)
+
+### Verifying Creation in MongoDB
+![add](demo/dbadd.jpg)
+
+### Checking tasks which are done
+![add](demo/checking.jpg)
+
+### Displaying completed tasks
+![add](demo/completed.jpg)
+
+### Displaying remaining to-do tasks
+![add](demo/remaining.jpg)
+
+### Deleting all completed tasks
+![add](demo/deleting.jpg)
+
+### Verifying Deletion in MongoDB
+![add](demo/dbdel.jpg)
+
+### Editing task
+![add](demo/edit.jpg)
+
+### Verifying Updation in MongoDB
+![add](demo/dbedit.jpg)
